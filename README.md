@@ -9,8 +9,8 @@
 > **The Bridge Between Digital Truth and On-Chain Reality.**
 > Monetize your reputation, not your privacy. The first zkTLS-powered Data Exchange for Web3 Gaming & Ethical Finance.
 
-![Dashboard Preview](public/nebula-starfield.jpg)
-*(Replace with your actual dashboard screenshot in the repo)*
+<img width="1903" height="893" alt="image" src="https://github.com/user-attachments/assets/93db85c6-b679-488b-99c6-2102885cb662" />
+
 
 ## 🌑 The Void Luxury Architecture
 
